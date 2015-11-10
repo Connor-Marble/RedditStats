@@ -1,0 +1,24 @@
+{
+  "name": "RedditStats",
+  "authors": [
+    "Connor-Marble <MarbleConnor@gmail.com>"
+  ],
+  "description": "A site to provide statistics and information about reddit accounts",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "GPLv3",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "sass-bootstrap-glyphicons": "~1.0.0",
+    "bootstrap": "~3.3.5"
+  }
+}
